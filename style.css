@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
